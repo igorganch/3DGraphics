@@ -15,3 +15,4 @@ This openGL app loads 4 cubes, where the user can assign different textures to t
 “U” key - Will reset the cubes to the original position  
 “ESC” key - Will close the game when pressed  
 ## Screenshots of the app running
+![SCREENSHOT](https://github.com/igorganch/3DGraphics/blob/main/3dtex/opengl.PNG)
