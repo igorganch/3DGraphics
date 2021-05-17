@@ -16,3 +16,4 @@ This openGL app loads 4 cubes, where the user can assign different textures to t
 “ESC” key - Will close the game when pressed  
 ## Screenshots of the app running
 ![SCREENSHOT](https://github.com/igorganch/3DGraphics/blob/main/3dtex/opengl.PNG)
+![SCREENSHOT](https://github.com/igorganch/3DGraphics/blob/main/3dtex/opengl2.PNG)
